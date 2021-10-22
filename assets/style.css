@@ -1,0 +1,16 @@
+table, td, th {
+  border: 1px solid cadetblue;
+  text-align: center;
+}
+  
+table {
+  table-layout: fixed;
+  width: 100%;
+  border-collapse: collapse;
+  border: 3px solid cadetblue;
+}
+
+thead th {
+  background: cadetblue;
+  color: white
+}
